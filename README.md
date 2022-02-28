@@ -7,5 +7,5 @@
 
 # What is this repository for-
 
-- This repository hosts the website ( https://techfixIT.github.io/home ) 
+- This repository hosts the website ( https://techfixIT.github.io/home ) and hosts the other files to be used for tech fixing as mentioned on the website
 - You cannot copy any code from here
